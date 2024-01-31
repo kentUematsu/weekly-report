@@ -1,4 +1,4 @@
-# Recursion-
+# weekly-report
 学習記録用のリポジトリーになります
 
 ## 目標
